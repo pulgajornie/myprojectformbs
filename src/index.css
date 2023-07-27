@@ -72,7 +72,7 @@ button:focus-visible {
   padding: 0.8em;
   border: 1px solid #010002;
   border-radius: 0.5em;
-  box-shadow: 0 0 6px black;
+  box-shadow: 0 0 6px #0d892c;
 }
 .input:focus {
   border: 1px solid #000002;
