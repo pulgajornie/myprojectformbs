@@ -14,7 +14,7 @@ function App() {
                 <Input id="name" name="name" />
                 <Label htmlFor="email">Email</Label>
                 <Input id="email" name="email" />
-                <Label htmlFor="message">message</Label>
+                <Label htmlFor="message">Message</Label>
                 <Input id="message" name="message" />
                 <SubmitButton>Submit</SubmitButton>
             </form>
