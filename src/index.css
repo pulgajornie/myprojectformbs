@@ -48,7 +48,8 @@ button {
   transition: border-color 0.25s;
   position: static;
   font-size: 0.8em;
-  margin: 1em;
+  margin: 1.5em;
+  box-shadow: 0 0 53px -13px rgb(0, 0, 0);
 }
 button:hover {
   border-color: #646cff;
