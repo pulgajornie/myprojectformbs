@@ -9,6 +9,7 @@ function App() {
 
     return (
         <div className={styles.App}>
+            <h1>My Header</h1>
             <form>
                 <Label htmlFor="name">Name</Label>
                 <Input id="name" name="name" />
