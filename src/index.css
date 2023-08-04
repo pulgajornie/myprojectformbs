@@ -81,3 +81,7 @@ button:focus-visible {
   border: 1px solid #000002;
   outline: unset;
 }
+
+* {
+  box-sizing: border-box;
+}
