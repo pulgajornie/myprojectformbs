@@ -4,9 +4,16 @@
         "components": [
             {
                 "filePath": "react-icons/ri",
-                "exportName": "TbSend",
-                "name": "TbSend"
+                "exportName": "RiSendPlaneFill",
+                "name": "RiSendPlaneFill"
+            },
+            {
+                "filePath": "react-icons/ri",
+                "exportName": "PiIdentificationCardThin",
+                "name": "PiIdentificationCardThin"
             }
         ]
     }
 ]  
+
+
